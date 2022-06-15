@@ -3,7 +3,7 @@
 // BUILT FIRST, DUMMY DATA
 const cars = [
     {
-        vin: "1111111111111",
+        vin: "5XYZG3AB9CG168450",
         make: "toyota",
         model: "prius",
         mileage: 215000,
@@ -11,14 +11,14 @@ const cars = [
         transmission: 'manual'
     },
     {
-        vin: "4444444444444",
+        vin: "1FTRX17W91NA50600",
         make: "toyota",
         model: "corolla",
         mileage: 115000,
         title: 'salvaged',
     },
     {
-        vin: "3333333333333",
+        vin: "123456LA7FG218229",
         make: "ford",
         model: "focus",
         mileage: 15000,
